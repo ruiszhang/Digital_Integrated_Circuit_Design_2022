@@ -33,7 +33,7 @@
 
 格雷码计数器
 
-**参数化优先编码器使用了break语句，属于systemverilog的语法**
+*参数化优先编码器使用了break语句，属于systemverilog的语法*
 
 
 
